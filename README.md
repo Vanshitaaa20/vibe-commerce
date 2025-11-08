@@ -44,7 +44,7 @@ The app opens in your default browser at http://localhost:3000
 
 🎬 Demo Video
 
-[Insert your Loom or YouTube unlisted link here]
+https://drive.google.com/file/d/1kwPmlt_z_xIEvgsFoipt-7xXQiI66mWE/view?usp=drivesdk
 
 ✅ Running Checks
 
