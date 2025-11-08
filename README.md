@@ -41,7 +41,9 @@ The app opens in your default browser at http://localhost:3000
 - Checkout using user details (mock) → Receipt with timestamp  
 - Defensive error-handling  
 - Responsive UI  
-
+  Screenshots
+  https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154011.png
+  
 🎬 Demo Video
 
 https://drive.google.com/file/d/1kwPmlt_z_xIEvgsFoipt-7xXQiI66mWE/view?usp=drivesdk
