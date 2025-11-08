@@ -40,9 +40,13 @@ The app opens in your default browser at http://localhost:3000
 - Cart persists per user via uid stored in localStorage  
 - Checkout using user details (mock) → Receipt with timestamp  
 - Defensive error-handling  
-- Responsive UI  
-  Screenshots
-  https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154011.png
+- Responsive UI
+
+📸 Screenshots  
+ - https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154011.png
+ - https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154050.png
+ - https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154118.png
+ - https://github.com/Vanshitaaa20/vibe-commerce/blob/main/frontend/Screenshot%202025-11-08%20154128.png
   
 🎬 Demo Video
 
